@@ -1,11 +1,11 @@
 .menu {
     overflow: hidden;
-    background-color: #333;
+    background-color: #d10303;
     position: relative;
   }
   
   /* Hide the links inside the navigation menu (except for logo/home) */
-  .menu #myLinks {
+  .menu #MenuOptions {
     display: none;
   }
   
