@@ -1,0 +1,14 @@
+Alice color pallete
+
+Alice normal dress:
+1. #243294 dark blue
+2. #626262 dark gray
+3. #881A12 dark red
+4. #636E38 green
+5. #332F2A darker gray
+6. #3949A8 lighter blue
+7. #4D0B06 really dark red
+8. #171415 slighly lighter black
+9. #995B45 brown
+10. #B0927A beige
+11. #EBEBEB slighly darker white
