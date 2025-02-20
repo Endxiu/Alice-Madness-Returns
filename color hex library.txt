@@ -12,3 +12,27 @@ Alice normal dress:
 9. #995B45 brown
 10. #B0927A beige
 11. #EBEBEB slighly darker white
+
+Steampunk dress:
+12. #958A7E darker beige
+13. #44382C lighter brown
+14. #272322 darker grey
+15. #352818 darker brown
+16. #D8CEC6 white
+17. #595031 swamp green
+18. #64412F brown
+19. #64412F i have no idea but some kind of red
+
+Siren dress:
+20. #BC4E6A dark pink
+21. #3F856F dark aqua idk
+22. #82F4C7 light green
+23. #E43A7F intense pink
+24. #64D3BB darker green
+25. #E4F4D8 really light green
+26. #E9737F just pink
+27. #2E5755 darker aqua
+28. #2E5D34 dark green
+29. #B2DAB3 light lime green
+30. #FFDFCB light pink or skin color idk
+31. #8A3345 something like cherry red idk
