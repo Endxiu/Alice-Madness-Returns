@@ -1,0 +1,182 @@
+Alice color pallete
+
+Alice normal dress:
+1. #243294 dark blue
+2. #626262 dark gray
+3. #881A12 dark red
+4. #636E38 green
+5. #332F2A darker gray
+6. #3949A8 lighter blue
+7. #4D0B06 really dark red
+8. #171415 slighly lighter black
+9. #995B45 brown
+10. #B0927A beige
+11. #EBEBEB slighly darker white
+
+Steampunk dress:
+12. #958A7E darker beige
+13. #44382C lighter brown
+14. #272322 darker grey
+15. #352818 darker brown
+16. #D8CEC6 white
+17. #595031 swamp green
+18. #64412F brown
+19. #64412F i have no idea but some kind of red
+
+Siren dress:
+20. #BC4E6A dark pink
+21. #3F856F dark aqua idk
+22. #82F4C7 light green
+23. #E43A7F intense pink
+24. #64D3BB darker green
+25. #E4F4D8 really light green
+26. #E9737F just pink
+27. #2E5755 darker aqua
+28. #2E5D34 dark green
+29. #B2DAB3 light lime green
+30. #FFDFCB light pink or skin color idk
+31. #8A3345 something like cherry red idk
+
+Silk Maiden dress:
+32. #443074 dark Purple
+33. #81A0A5 blueish grey idk
+34. #273540 really dark blue mixed with grey idk
+35. #6F8FB9 light jeans blue idk
+36. #D39BA0 washed pink
+37. #587446 green
+38. #AE526F rasberry pink idk
+39. #F4A9A7 powder pink idk
+40. #B05063 another kind of pink
+41. #E0F7F4 watery snow 
+
+Royal Suit dress:
+42. #731110 cherry red
+43. #C14232 strawberry red idk
+44. #49261E dark brown
+45. #957D3E shitty gold
+46. #624128 brown
+47. #B91B15 neon red
+48. #670F18 bloody red
+49. #35211E chocolatte brown
+50. #DAC492 yellowish beige
+51. #9B9599 silver gray
+
+misstitched dress
+52. #608576 turquoise
+53. #EAEBD9 greensich white
+54. #FB8A8E peach pink
+55. #D65658 blush pink 
+56. #FAB47A pumpkin spice latte (jajko tak uznało)
+57. #A49F85 greenish gray idk
+58. #7C999A washed blue 
+59. #722D3D plum Purple (walona śliwka)
+60. #2B2522 brownish black
+61. #74634D jajko's shit
+
+Caterpillar dress:
+62. #C7C07E mohito green
+63. #697A62 lime with down green
+64. #797547 light grunge green
+65. #4C4221 forest green
+66. #C3B0A4 i have no idea skinish grey
+67. #8F241F red
+68. #EF613C shrimp orange
+69. #364839 dark water lily green
+70. #661C07 browny red
+71. #468174 just water lily green
+
+Cheshire dress:
+72. #6F6E67 grey
+73. #272320 really dark grey
+74. #565D5B another version of grey
+75. #878380 lighter grey
+76. #DA8D33 orangish orange
+77. #83351B jajko's period blood
+78. #5D3F37 light brown idk
+79. #481E16 dryed jajko's period blood
+80. #A75137 greyfruit 
+81. #BDB9B8 really light grey
+
+Checkmate dress:
+82. #AA2418 red
+83. #D4413A strawberry red
+84. #7F0800 cherry red
+85. #DB5857 jajko's pussy 
+86. #CDBFA6 bone white
+87. #EFDEC6 skinish white
+88. #87786D skinish grey
+89. #530E06 darker cherry red
+90. #F17463 peach pink
+91. #FFFADA yellowish white
+
+Flesh Maiden dress:
+92. #B85532 
+93. #782629
+94. #E67F59 peach orange
+95. #C92E4B
+96. #C53E40
+97. #B96C66
+98. #D27D8E
+99. #541D1B
+100. #D3BA99
+101. #92404E
+
+Late but Lucky dress:
+102. #3D1510
+103. #88662D
+104. #854C4F
+105. #A88A7D
+106. #83644F
+107. #8F4E3B
+108. #F3E2B1
+109. #5A281D
+110. #7B5F56
+111. #92404E
+
+Hattress dress:
+112. #BFB09A
+113. #312E23
+114. #A87640
+115. #7B794A
+116. #897A6A
+117. #876B42
+118. #6B665E
+119. #EDE0C4
+120. #606029
+121. #6D5630
+
+Hysteria dress:
+122. #EFDFC8
+123. #EDD2C9
+124. #D7C4B3
+125. #FFEBE1
+126. #3A0000
+127. #94281E
+128. #7B1E19
+129. #AA3D36
+130. #CAB7B3
+131. #3C2827
+
+London dress:
+132. #988675
+133. #BBA893
+134. #8F8780
+135. #453F38
+136. #B18E83
+137. #665242
+138. #4B4B3B
+139. #C5B5A4
+140. #65564E
+141. #272427
+
+StraitJacket:
+142. #917158
+143. #F7CDB9
+144. #BFA796
+145. #EACFBD
+146. #5D361F
+147. #92674D
+148. #5D3D23
+149. #A5674C
+150. #756354
+151. #583924

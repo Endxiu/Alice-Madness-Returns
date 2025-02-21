@@ -1,4 +1,5 @@
 body {
+  margin: 0px;
   background-color: #171415;
 }
 
@@ -6,39 +7,59 @@ body {
     overflow: hidden;
     background-color: #3949A8;
     position: relative;
+    
   }
   
   /* Hide the links inside the navigation menu (except for logo/home) */
   .menu #MenuOptions {
     display: none;
+    text-align: center;
   }
   
   /* Style navigation menu links */
   .menu a {
-    color: white;
+    color: #EBEBEB;
     padding: 14px 16px;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 20px;
     display: block;
+
   }
   
   /* Style the hamburger menu */
   .menu a.icon {
-    background: black;
+    background: #243294;
     display: block;
     position: absolute;
     right: 0;
     top: 0;
+    color: #881A12;
+    
   }
   
   /* Add a grey background color on mouse-over */
   .menu a:hover {
-    background-color: #ddd;
-    color: black;
+    background-color: #1F2B7E;
+    color: #4D0B06;
   }
   
   /* Style the active link (or home/logo) */
   .active {
-    background-color: #1F2B7E;
+    background-color: #243294;
     color: white;
   }
+
+  .BackroundL img {
+    width: 100%;
+    height: 90%;
+    position: absolute;
+  }
+
+  .Logo img {
+    margin-left: 25% ;
+    margin-top: 9%;
+    width: 50%;
+    height: 350px;
+    position: relative;
+  }
+  
